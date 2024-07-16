@@ -2,7 +2,7 @@
 
 ## Configuration
 
-Before using the script, you need to replace the following placeholder values with your own information:
+Before using the script, you need to replace the following placeholder values with your own information :
 
 ### Jira Domain
 
