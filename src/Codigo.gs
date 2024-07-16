@@ -41,7 +41,7 @@ function getJiraTitle(range, targetColumn) {
   }
 
   var issueKey = jiraLink.split('/').pop();
-  var jiraDomain = "tam.atlassian.net";
+  var jiraDomain = "my_company.atlassian.net";
   var url = `https://${jiraDomain}/rest/api/2/issue/${issueKey}`;
 
   Logger.log("Jira API URL: " + url);
