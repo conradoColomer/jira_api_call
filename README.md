@@ -1,6 +1,6 @@
 # Jira API Call
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conrado-mendez-colomer-454b221b1/)
+- **About me**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conrado-mendez-colomer-454b221b1/)
 
 
 ## Configuration
