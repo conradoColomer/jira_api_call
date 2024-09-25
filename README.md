@@ -1,6 +1,17 @@
 # Jira API Call
 
-- **About me**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conrado-mendez-colomer-454b221b1/)
+- **🚀About me**:
+Hi, I’m Conrado!!
+I'm from Argentina ⭐️⭐️⭐️ 
+
+A bit about me personally:
+
+❤️ I’m passionate about API testing and mobile automation for Android and iOS.
+⚡ Fun fact: I work with Java and Python, and I love diving into automation challenges.
+🔭 I’m currently mastering QA Engineering, specializing in automation and software testing.
+🌱 Continuously learning and growing in the tech space.
+📫 How to reach me...
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conrado-mendez-colomer-454b221b1/)
 
 
 ## Configuration
